@@ -1,0 +1,27 @@
+{
+    "Name": "Reed Sellers McDowra",
+    "Email": "rsmcdowra@gmail.com",
+    "Education": [
+      {
+        "Degree": "Information Technology - Concentration in Cybersecurity ",
+        "University": "University of North Alabama",
+        "Graduating Year": "2025"
+      }
+
+    ],
+    "Experience": [
+      {
+        "Position": "Game Room Attendant",
+        "Company": "Lion's Den Game Room - UNA",
+        "Duration": "Dec 2023 - Present",
+        "Description": "Dealt with upkeeping technology and interact with patrons"
+      }
+      
+    ],
+    "Skills": [
+       "Knows the Python programming language",
+        "Learning Java programming language",
+        "Has access to Security+ & Network+ textbooks"
+        
+    ]
+  }
